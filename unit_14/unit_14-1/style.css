@@ -1,0 +1,20 @@
+html, body {
+  font-family: serif;
+}
+
+body {
+  margin: 20px;
+}
+
+.out-1 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.valid {
+  color: blue;
+}
